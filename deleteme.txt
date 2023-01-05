@@ -1,0 +1,1 @@
+This file is created when I tested browser based vscode at github, it is cool though.
